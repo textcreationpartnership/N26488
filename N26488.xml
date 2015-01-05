@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:035217_0000_10021064702E2310"/>
-            <pb facs="tcp:035217_0001_1002106A173A59A0" rendition="simple:additions"/>
+            <pb facs="unknown:035217_0000_10021064702E2310"/>
+            <pb facs="unknown:035217_0001_1002106A173A59A0"
+                rendition="simple:additions"/>
             <head>HEMP.</head>
             <p>THE extenſive uſefulneſs of Hemp, the little interference of its culture with the other work of farmers in America; and <hi>when water-rotted,</hi> the eaſe with which it is produced and prepared for <hi>rope,</hi> as well as the general certainty of the crop with a good price, led me to admire it in preference to other uncommon articles of crop.<note n="*" place="bottom">My Hemp Harveſts at Wye in Maryland, were always after thoſe of wheat, and before ſeeding winter grain. In England they interfere with the grain harveſts. Between water<g ref="char:EOLhyphen"/>rotting, <hi>daily as it is pulled,</hi> and the ſpreading it in fields to rot, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -135,7 +136,7 @@
                   <desc>〈◊〉</desc>
                </gap> are in condition to yield <hi>many repeated
 <pb n="2"
-                      facs="tcp:035217_0002_1002106BACD01390"
+                      facs="unknown:035217_0002_1002106BACD01390"
                       rendition="simple:additions"/>crops</hi> of Hemp; a little manure being now and then added.<note n="†" place="bottom">Mr. Young ſpeaks of a piece of ground at Hoxne in Suffolk, England, which has been under crops of Hemp for <hi>ſeventy ſuceſſive years.</hi>
                </note>
             </p>
@@ -155,13 +156,13 @@
                   <desc>〈◊〉</desc>
                </gap> The
 <pb n="3"
-                   facs="tcp:035217_0003_1002106D48740C18"
+                   facs="unknown:035217_0003_1002106D48740C18"
                    rendition="simple:additions"/>plants then ſoon appear, and rapidly cover and ſhel<g ref="char:EOLhyphen"/>ter the whole ſurface of the ground; whereby we<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ds are kept under, and exhalation is greatly prevented My Hemp never ſuffered materially from drought but once, and that of a ſowing in May. It was never found neceſſary to weed what was ſowed for a crop: but only ſuch as was ſown thin for producing ſeed. Sometimes ſeed was ſaved from the margin of the field, where the plants had room to branch and were coarſe.</p>
             <p>When the male or impregnating plants ſhewed maturity by ſome change in the colour, and by the farina or duſt flying off from the bloſſoms, all was pulled up, both male and female: and the pulling of every day was put into a ſalt water cove, in the evening of the ſame day, bound up in ſmall bundles, and ſunk 4½ feet in the water, in a thick ſquare bed. On the third day it was inſpected; and from the third to the fifth it was enough rotted, as it is called. In examining it, with finger and thumb ſome of the roots were broke. If they bent or were tough, it was not enough: when they ſnapt off ſhort like glaſs, it was enough: but the bark alſo was tried. The Hemp was then taken out of the water, and the heads laid ſloping down to drain 'till morning; for it was uſually taken out in the evening. In the morning it was ſpread, and whilſt drying once turned. In a few
 <pb n="4"
-                   facs="tcp:035217_0004_1002106EDFF390C0"
+                   facs="unknown:035217_0004_1002106EDFF390C0"
                    rendition="simple:additions"/>fair days it was dry, and then carted to an old tobacco houſe, where it was bulked up 'till the hurry of ſe<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="5 letters">
                   <desc>•••••</desc>
@@ -195,7 +196,7 @@
             </p>
             <p>After pulling the Hemp, weeds grew up: which
 <pb n="5"
-                   facs="tcp:035217_0005_1002107089032CB8"
+                   facs="unknown:035217_0005_1002107089032CB8"
                    rendition="simple:additions"/>were reduced, and the ground was left in clean con<g ref="char:EOLhyphen"/>dition 'till the ſpring, by plowings.</p>
             <p>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -212,7 +213,7 @@
                   <desc>〈…〉</desc>
                </gap> plowed in as a manure.
 <pb n="6"
-                   facs="tcp:035217_0006_1002108454AB4668"
+                   facs="unknown:035217_0006_1002108454AB4668"
                    rendition="simple:additions"/>Buckwheat muſt not run to <hi>ſeed</hi> on ground to be ſown with Hemp. I have had it ſpireing up and contend<g ref="char:EOLhyphen"/>ing with growing Hemp, 'till the buck has been five feet high.</p>
             <p>The heavieſt work in procuring Hemp, is the <hi>breaking</hi> and ſcutching or ſwingling it. But as it is the work of leiſure winter, and every perſon who ſtrips Tobacco can break and ſwingle Hemp: and moreover as hirelings, if neceſſary, are in that ſeaſon eaſily obtained, this bugbear part of the buſineſs can aſſuredly be accompliſhed, and the Hemp got rid of at market in the ſpring.</p>
             <p>A <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -227,7 +228,7 @@
                </gap> 'till it <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>es
-<pb n="7" facs="tcp:035217_0007_10021074AF81A2E8"/>nearly to the tops of the ſticks. The Hemp is then laid in, layer croſſing layer, ſo that the ſteam may paſs through the whole body of the Hemp. The kettle is now covered cloſe as can be, and hung over a very <hi>gentle</hi> fire to ſtew or ſimmer, but not boil, ſo as to raiſe a good ſteam for 6 or 8 hours. It is then taken off, and let ſtand <hi>covered</hi> 'till the Hemp is cool enough to be handled. It is now taken out, and wrung very <hi>carefully,</hi> 'till dry as can be: then hang it up <hi>out of the way of the wind,</hi> in a garret or ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="7" facs="unknown:035217_0007_10021074AF81A2E8"/>nearly to the tops of the ſticks. The Hemp is then laid in, layer croſſing layer, ſo that the ſteam may paſs through the whole body of the Hemp. The kettle is now covered cloſe as can be, and hung over a very <hi>gentle</hi> fire to ſtew or ſimmer, but not boil, ſo as to raiſe a good ſteam for 6 or 8 hours. It is then taken off, and let ſtand <hi>covered</hi> 'till the Hemp is cool enough to be handled. It is now taken out, and wrung very <hi>carefully,</hi> 'till dry as can be: then hang it up <hi>out of the way of the wind,</hi> in a garret or ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n with all the doors ſhut. Here it remains, now and then turning it, 'till perfectly dry. Then pack it up in a <hi>cloſe,</hi> dry place, 'till it is to be uſed. Yet at times it is to be viſited, and examined if any part has become <hi>damp.</hi> At leiſure, <hi>twiſt up</hi> as many hands of Hemp as are intended for preſent uſe, <hi>hard</hi> as you can; and with a ſmart, round, ſmooth hand-beetle, on a ſmooth ſtone beat and pound each hand by itſelf, all over very well, turning it round till all is well bruiſed. Then untwiſt and hackle it through a coarſe, and after it through a fine hackle. Hackling is performed in the ſame manner as if combing a fine head of hair; beginning at the <hi>ends</hi> below as theſe are entangled, riſing higher and higher: at laſt the top of the head is reached. The firſt tow makes country rope; the ſecond, oznabrigs, ſheeting and bagging; and the pure Hemp excellent linen.</p>
             <closer>
